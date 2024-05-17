@@ -1,6 +1,6 @@
 ### 1. Data Cleaning and Preprocessing.ipynb
 **Description**: This notebook covers essential techniques for data cleaning and preprocessing, which are crucial steps in any data analysis or machine learning project. It includes methods for handling missing data, encoding categorical variables, and scaling features.
-
+ 
 **Contents**:
 - **Handling Missing Data**: Techniques such as imputation and removal of missing values.
 - **Encoding Categorical Variables**: Methods like one-hot encoding and label encoding.
